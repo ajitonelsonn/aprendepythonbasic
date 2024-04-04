@@ -1,19 +1,35 @@
-# AND bit-a-bit
-print(5 & 3)  # Sai 1 (101 & 011 = 001)
-print(format(5 & 3, '08b'))
+# Operador "="
+x = 5   # x sai 5
 
-# OR bit-a-bit
-print(5 | 3)  # Sai 7 (101 | 011 = 111)
-print(format(5 | 3, '08b'))
-# XOR bit-a-bit
-print(5 ^ 3)  # Sai 6 (101 ^ 011 = 110)
-print(format(5 ^ 3, '08b'))
-# NOT bit-a-bit
-print(~5)     # Sai -6 (~101 = -110)
-print(format(~5, '08b'))
-# Shift left
-print(5 << 1) # Sai 10 (101 << 1 = 1010)
-print(format(5 << 1, '08b'))
-# Shift right
-print(5 >> 1) # Sai 2 (101 >> 1 = 10)
-print(format(5 >> 1, '08b'))
+# Operador "+="
+x += 3  # x sai 8 (5 + 3)
+
+# Operador "-="
+x -= 2  # x sai 6 (8 - 2)
+
+# Operador "*="
+x *= 4  # x sai 24 (6 * 4)
+
+# Operador "/="
+x /= 3  # x sai 8.0 (24 / 3)
+
+# Operador "//="
+x //= 2 # x sai 4.0 (8.0 // 2)
+
+# Operador "%="
+x %= 3  # x sai 1.0 (4.0 % 3)
+
+# Operador "&="
+x &= 3  # x sai 0 (100 & 011 = 000)
+
+# Operador "|="
+x |= 6  # x sai 7 (000 | 110 = 111)
+
+# Operador "^="
+x ^= 5  # x sai 2 (111 ^ 101 = 010)
+
+# Operador "<<="
+x <<= 2 # x sai 8 (0010 << 2 = 1000)
+
+# Operador ">>="
+x >>= 1 # x sai 4 (1000 >> 1 = 0100)
