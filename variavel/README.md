@@ -7,10 +7,10 @@ Hare ba eziplu ida:
 
 ```python
 # Kria variável "idade" no asigna valor 20 ba nia
-idade = 20
+idade = 25
 
 # Kria variável "naran" no asigna valor "Maria" ba nia
-naran = "Maria"
+naran = "Ajito"
 
 # Kria variável "hamutuk" no asigna valor resultado husi operasaun matemátika
 hamutuk = 10 + 5
