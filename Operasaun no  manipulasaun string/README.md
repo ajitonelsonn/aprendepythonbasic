@@ -1,4 +1,4 @@
-# operasaun logika no boolean
+# Operasaun no manipulasaun string
 
 Operasaun no manipulasaun string hanesan asaun sira ne'ebé ita bele halo ho string sira iha Python. Ne'e inklui konkatenasaun, kaptura medida (length), fatia (slice), peskiza, no transformasaun ba maiúsula ka minúscula, entre operasaun sira seluk.
 
