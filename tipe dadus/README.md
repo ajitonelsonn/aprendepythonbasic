@@ -20,7 +20,7 @@ Iha Python, tipe dadus (data types) ne'ebé komuns inklui:
 
 4. **Mapping Type**:
 
-   - **dict**: Dicionáriu, ne'ebé armazena valores ho sira nia key. Hanesan {'name': 'John', 'age': 30}, {'country': 'Timor-Leste', 'capital': 'Dili'}, etc.
+   - **dict**: Dicionáriu, ne'ebé armazena valores ho sira nia key. Hanesan {'name': 'Jedoe', 'age': 21}, {'country': 'Timor-Leste', 'capital': 'Dili'}, etc.
 
 5. **Set Types**:
 
