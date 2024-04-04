@@ -2,7 +2,7 @@
 
 Casting iha Python mak konversaun husi tipu dadus ida ba tipu dadus seluk. Iha situasaun sira ne'ebé ita presiza konverte tipu dadus atu halo operasaun sira ho efikásia, kasting bele útil.
 
-Ami bele uza funsaun sira hanesan `int()`, `float()`, `str()`, etc., atu kaste tipu dadus.
+Ita bele uza funsaun sira hanesan `int()`, `float()`, `str()`, etc., atu kaste tipu dadus.
 
 Ezemplu sira:
 
