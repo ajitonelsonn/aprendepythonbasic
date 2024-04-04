@@ -1,6 +1,6 @@
 ### Exerciciu I
 
-Klaru! Hau sei fó imi alguns exercísiu sira hodi pratika operadores bitwise iha Python:
+Exercísiu sira hodi pratika operadores bitwise iha Python:
 
 1. **Exercísiu 1**: Kalkula AND bit-a-bit entre númeru 10 no 7.
 

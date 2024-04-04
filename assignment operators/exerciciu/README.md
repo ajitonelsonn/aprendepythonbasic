@@ -1,49 +1,52 @@
 ### Exerciciu I
 
-Klaru! Hau sei fó imi alguns exercísiu sira hodi pratika operadores bitwise iha Python:
+Klaru! Hau sei fó imi alguns exercísiu sira hodi pratika operadores atribuição iha Python:
 
-1. **Exercísiu 1**: Kalkula AND bit-a-bit entre númeru 10 no 7.
+1. **Exercísiu 1**: Kalkula total husi uma kaixa produtu sira, hanesan livru, kaixa, no sabonete, ne'ebé kada unidade kustu $5. Iha uma iha 10 livru, 5 kaixa, no 20 sabonete. Kalkula total kustu.
 
 ```python
-resultado = 10 & 7
-print("AND bit-a-bit entre 10 no 7:", resultado)
+livru = 10
+kaixa = 5
+sabonete = 20
+
+# Kalkula total kustu
+total_kustu = livru + kaixa + sabonete
+
+print("Total kustu:", total_kustu)
 ```
 
-2. **Exercísiu 2**: Kalkula OR bit-a-bit entre númeru 10 no 7.
+2. **Exercísiu 2**: Atualiza valor total ne'ebé tuir kondisaun. Se total kustu iha eksedente ba $50, aumenta 10% ba valor total. Se laiha eksedente, mantén valor total.
 
 ```python
-resultado = 10 | 7
-print("OR bit-a-bit entre 10 no 7:", resultado)
+total_kustu = 150
+
+# Atualiza total kustu tuir kondisaun
+if total_kustu > 50:
+    total_kustu *= 1.1
+
+print("Total kustu atualizado:", total_kustu)
 ```
 
-3. **Exercísiu 3**: Kalkula XOR bit-a-bit entre númeru 10 no 7.
+3. **Exercísiu 3**: Kalkula despesa média iha fulan ida, ho total despesa $500, no tinan ida iha 30 dias. Kalkula despesa média iha fulan ida.
 
 ```python
-resultado = 10 ^ 7
-print("XOR bit-a-bit entre 10 no 7:", resultado)
+total_despesa = 500
+dias = 30
+
+# Kalkula despesa média iha fulan ida
+despesa_media = total_despesa / dias
+
+print("Despesa média iha fulan ida:", despesa_media)
 ```
 
-4. **Exercísiu 4**: Kalkula NOT bit-a-bit ba númeru 10.
+4. **Exercísiu 4**: Kalkula temperatura Celsius konvertidu ba Fahrenheit. Utiliza operador atribuição ba varíaveis sira ne'ebé presiza.
 
 ```python
-resultado = ~10
-print("NOT bit-a-bit ba 10:", resultado)
-```
+celsius = 25
 
-5. **Exercísiu 5**: Shift left 2 posisaun ba númeru 10.
+# Kalkula temperatura Fahrenheit
+fahrenheit = (celsius * 9/5) + 32
 
-```python
-resultado = 10 << 2
-print("Shift left 2 posisaun ba 10:", resultado)
-```
-
-6. **Exercísiu 6**: Shift right 2 posisaun ba númeru 10.
-
-```python
-resultado = 10 >> 2
-print("Shift right 2 posisaun ba 10:", resultado)
-```
-
-```python
-print(format(5 ^ 3, '08b'))
+print("Temperatura Celsius:", celsius)
+print("Temperatura Fahrenheit:", fahrenheit)
 ```
