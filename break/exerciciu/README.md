@@ -1,3 +1,0 @@
-### Exercicius
-
-Sei esplika
