@@ -12,7 +12,7 @@ for item in koleksaun:
 Ezemplu simples kona-ba `for` loop:
 
 ```python
-nomes = ["Ana", "Maria", "José"]
+nomes = ["Ajito", "Nelson", "Lucio"]
 
 for nome in nomes:
     print(nome)
