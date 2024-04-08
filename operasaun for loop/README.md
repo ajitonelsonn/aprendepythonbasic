@@ -1,4 +1,4 @@
-# Operasaun Loop
+# Operasaun While Loop
 
 Iha Python bele uza `for` loop atu iterasaun iha koleksaun husi elemento sira, hanesan list, tuple, string, dictionary, ka set. `for` loop uza estrutura ne'ebé fasil atu komprende no uza iha situasaun sira ne'ebé ita presiza halo repetisaun.
 
