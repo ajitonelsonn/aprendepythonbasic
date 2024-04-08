@@ -1,4 +1,4 @@
-# Operasaun Loop
+# Operasaun  while Loop
 
 `while` loop iha Python uza atu halo repetisaun ba bloku kodigu durante kondisaun determinada sei verdadeira. Enkuantu kondisaun iha `while` loop sei verdadeira, bloku kodigu sei kontinua executa.
 
