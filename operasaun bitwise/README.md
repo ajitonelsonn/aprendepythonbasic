@@ -67,4 +67,4 @@ Referencia : https://www.digitalocean.com/community/tutorials/python-bitwise-ope
 
 
 Test
-<img src='https://vc672.pcloud.com/dHZfIeRgIZtrhXWz7ZZZ9kTd7kZ2ZZjORZkZqmh80Z97Y1pibD2lzgW9nGEo20rJ3gsCc7/Screenshot%202024-04-12%20at%2016.34.05.png'>
+<img src='https://u.pcloud.link/publink/show?code=XZqmh80ZoM9rfadXCAfYd79i2GFviRri8yQ7'>
